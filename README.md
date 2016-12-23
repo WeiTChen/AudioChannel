@@ -1,2 +1,3 @@
 # AudioChannel
-Multi track playing
+Multi track playing 
+多音轨播放,混音
